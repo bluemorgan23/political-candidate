@@ -1,0 +1,42 @@
+.article--main-component section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+.section--basic-info > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section--basic-info > div > h2 {
+    font-size: 4em;
+    margin: 10px;
+}
+
+.section--basic-info > div > h4 {
+    margin: 10px;
+}
+
+.section--basic-committees > h2 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.section--basic-committees > ul {
+    margin: 5px;
+    
+}
+
+.section--basic-bills > h2 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.section--basic-bills > ul {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
